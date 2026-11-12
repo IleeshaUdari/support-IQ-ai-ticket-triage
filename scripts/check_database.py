@@ -1,30 +1,47 @@
 
-from app.database import get_connection, initialize_database
+from app.database import initialize_database, get_connection
 
 
 def check_database():
     initialize_database()
 
-    with get_connection() as connection:
-        tables = connection.execute("""
+    connection = get_connection()
+
+    try:
+        cursor = connection.execute("""
             SELECT name
             FROM sqlite_master
             WHERE type = 'table'
-              AND name IN ('tickets', 'predictions')
+              AND name NOT LIKE 'sqlite_%'
             ORDER BY name
-        """).fetchall()
+        """)
 
-        table_names = [row["name"] for row in tables]
+        tables = [row["name"] for row in cursor.fetchall()]
 
-        print("\nDatabase tables:")
-        for name in table_names:
-            print(f"- {name}")
+        print("\nSupportIQ Database Verification")
+        print("=" * 40)
 
-        assert table_names == ["predictions", "tickets"], (
-            "Required tables are missing"
-        )
+        for table in tables:
+            print(f"Table found: {table}")
 
-        print("\nDatabase verification passed!")
+        required_tables = {
+            "tickets",
+            "predictions",
+            "ticket_reviews",
+        }
+
+        missing = required_tables - set(tables)
+
+        if missing:
+            raise RuntimeError(
+                f"Missing tables: {sorted(missing)}"
+            )
+
+        print("\nAll required database tables exist!")
+        print("Database verification PASSED!")
+
+    finally:
+        connection.close()
 
 
 if __name__ == "__main__":
