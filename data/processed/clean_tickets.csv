@@ -1,0 +1,300 @@
+ticket_id,message,category,priority
+T0006,I was charged twice for order 1488,billing,high
+T0173,Please update my email address for account 5533,account,low
+T0222,I cannot log into my account 5920,account,medium
+T0150,My package for order 3144 arrived damaged,delivery,high
+T0296,The website shows error code 1823,technical,high
+T0262,The dashboard is not loading for user 5050,technical,medium
+T0208,Someone accessed my account 3925 without permission,account,high
+T0164,I cannot log into my account 3200,account,medium
+T0276,I cannot upload a document with reference 2020,technical,medium
+T0294,The application crashes when I open page 8022,technical,high
+T0215,My account 4114 has been locked,account,high
+T0025,The amount charged for order 5803 is incorrect,billing,high
+T0283,The mobile application freezes on screen 9947,technical,high
+T0255,The application crashes when I open page 8478,technical,high
+T0068,Please send the invoice for order 9201,billing,low
+T0195,I forgot my password for account 2771,account,medium
+T0256,The website shows error code 8612,technical,high
+T0205,My account 7548 has been locked,account,high
+T0202,Please update my email address for account 6378,account,low
+T0168,My account 4450 has been locked,account,high
+T0244,The website shows error code 8784,technical,high
+T0096,Where is my package for order 2163?,delivery,medium
+T0097,Where is my package for order 4750?,delivery,medium
+T0221,Someone accessed my account 6143 without permission,account,high
+T0110,Where is my package for order 1993?,delivery,medium
+T0259,I cannot upload a document with reference 9976,technical,medium
+T0203,Someone accessed my account 2137 without permission,account,high
+T0231,The application crashes when I open page 5978,technical,high
+T0275,The mobile application freezes on screen 8633,technical,high
+T0191,I forgot my password for account 7755,account,medium
+T0169,Someone accessed my account 4335 without permission,account,high
+T0066,My payment for order 3591 was declined,billing,medium
+T0269,The mobile application freezes on screen 2320,technical,high
+T0139,Please update the delivery address for order 2312,delivery,medium
+T0266,The application crashes when I open page 5681,technical,high
+T0107,My package for order 6804 arrived damaged,delivery,high
+T0144,Please update the delivery address for order 1651,delivery,medium
+T0267,The website shows error code 5451,technical,high
+T0162,Someone accessed my account 9666 without permission,account,high
+T0018,I was charged twice for order 2519,billing,high
+T0232,The dashboard is not loading for user 4443,technical,medium
+T0297,The dashboard is not loading for user 7211,technical,medium
+T0090,My package for order 9479 arrived damaged,delivery,high
+T0035,My refund for order 5374 has not arrived,billing,medium
+T0128,Order 8454 was delivered to the wrong address,delivery,high
+T0161,Please update my email address for account 9900,account,low
+T0094,Where is my package for order 4770?,delivery,medium
+T0043,Please send the invoice for order 7572,billing,low
+T0064,Please send the invoice for order 6573,billing,low
+T0041,Please send the invoice for order 1916,billing,low
+T0051,Please send the invoice for order 8019,billing,low
+T0017,My refund for order 6514 has not arrived,billing,medium
+T0114,Please update the delivery address for order 8350,delivery,medium
+T0225,Please update my email address for account 5844,account,low
+T0240,The application crashes when I open page 4848,technical,high
+T0030,I was charged twice for order 4814,billing,high
+T0147,Order 5272 was delivered to the wrong address,delivery,high
+T0045,My refund for order 6155 has not arrived,billing,medium
+T0156,I forgot my password for account 9288,account,medium
+T0137,Please update the delivery address for order 9701,delivery,medium
+T0019,My payment for order 2584 was declined,billing,medium
+T0113,My order 4116 has not arrived,delivery,medium
+T0192,I cannot log into my account 3938,account,medium
+T0038,My refund for order 8573 has not arrived,billing,medium
+T0234,I cannot upload a document with reference 8238,technical,medium
+T0186,Someone accessed my account 4441 without permission,account,high
+T0263,The dashboard is not loading for user 9540,technical,medium
+T0001,I was charged twice for order 1409,billing,high
+T0082,Where is my package for order 9727?,delivery,medium
+T0250,The website shows error code 1090,technical,high
+T0217,Please update my email address for account 1027,account,low
+T0151,Someone accessed my account 8491 without permission,account,high
+T0289,I cannot upload a document with reference 3704,technical,medium
+T0099,Order 2160 was delivered to the wrong address,delivery,high
+T0034,Please send the invoice for order 6820,billing,low
+T0247,The mobile application freezes on screen 4185,technical,high
+T0293,The mobile application freezes on screen 1444,technical,high
+T0013,The amount charged for order 5557 is incorrect,billing,high
+T0210,I cannot log into my account 2776,account,medium
+T0206,My account 6425 has been locked,account,high
+T0092,My order 4681 has not arrived,delivery,medium
+T0101,Order 8953 was delivered to the wrong address,delivery,high
+T0278,I cannot upload a document with reference 1320,technical,medium
+T0201,I cannot log into my account 4164,account,medium
+T0140,My order 2122 has not arrived,delivery,medium
+T0100,Please update the delivery address for order 4899,delivery,medium
+T0227,The website shows error code 7888,technical,high
+T0058,My payment for order 2040 was declined,billing,medium
+T0257,The mobile application freezes on screen 6198,technical,high
+T0281,The dashboard is not loading for user 5892,technical,medium
+T0029,My refund for order 5741 has not arrived,billing,medium
+T0080,Please update the delivery address for order 2290,delivery,medium
+T0077,Where is my package for order 6947?,delivery,medium
+T0165,Someone accessed my account 2891 without permission,account,high
+T0054,My refund for order 9348 has not arrived,billing,medium
+T0197,Please update my email address for account 4644,account,low
+T0288,I cannot upload a document with reference 6507,technical,medium
+T0032,Please send the invoice for order 8428,billing,low
+T0285,I cannot upload a document with reference 4595,technical,medium
+T0265,The dashboard is not loading for user 8206,technical,medium
+T0184,I cannot log into my account 6050,account,medium
+T0286,The dashboard is not loading for user 8140,technical,medium
+T0020,Please send the invoice for order 6635,billing,low
+T0159,I forgot my password for account 7054,account,medium
+T0198,I forgot my password for account 8541,account,medium
+T0223,My account 6067 has been locked,account,high
+T0249,I cannot upload a document with reference 4997,technical,medium
+T0295,The website shows error code 8564,technical,high
+T0209,My account 5349 has been locked,account,high
+T0052,The amount charged for order 7543 is incorrect,billing,high
+T0009,The amount charged for order 1434 is incorrect,billing,high
+T0106,Where is my package for order 2588?,delivery,medium
+T0015,My payment for order 6574 was declined,billing,medium
+T0121,Where is my package for order 2528?,delivery,medium
+T0246,I cannot upload a document with reference 7790,technical,medium
+T0129,Order 7930 was delivered to the wrong address,delivery,high
+T0007,I was charged twice for order 4582,billing,high
+T0176,Someone accessed my account 3647 without permission,account,high
+T0044,Please send the invoice for order 2084,billing,low
+T0174,I cannot log into my account 1058,account,medium
+T0183,Please update my email address for account 3088,account,low
+T0061,The amount charged for order 5119 is incorrect,billing,high
+T0037,The amount charged for order 5010 is incorrect,billing,high
+T0074,The amount charged for order 1009 is incorrect,billing,high
+T0002,Please send the invoice for order 5012,billing,low
+T0226,The mobile application freezes on screen 3085,technical,high
+T0131,My order 4111 has not arrived,delivery,medium
+T0179,I cannot log into my account 2232,account,medium
+T0235,I cannot upload a document with reference 4501,technical,medium
+T0075,The amount charged for order 6310 is incorrect,billing,high
+T0270,The website shows error code 3471,technical,high
+T0012,My refund for order 8359 has not arrived,billing,medium
+T0145,Please update the delivery address for order 2343,delivery,medium
+T0033,Please send the invoice for order 3664,billing,low
+T0252,The website shows error code 3881,technical,high
+T0078,Order 4923 was delivered to the wrong address,delivery,high
+T0237,The website shows error code 2389,technical,high
+T0245,The mobile application freezes on screen 2193,technical,high
+T0274,I cannot upload a document with reference 6421,technical,medium
+T0175,Someone accessed my account 3143 without permission,account,high
+T0148,My order 6147 has not arrived,delivery,medium
+T0026,The amount charged for order 6925 is incorrect,billing,high
+T0073,My refund for order 9837 has not arrived,billing,medium
+T0135,Where is my package for order 1821?,delivery,medium
+T0194,I forgot my password for account 5371,account,medium
+T0228,I cannot upload a document with reference 3851,technical,medium
+T0271,The website shows error code 7275,technical,high
+T0196,Please update my email address for account 1634,account,low
+T0048,My refund for order 5339 has not arrived,billing,medium
+T0230,I cannot upload a document with reference 9977,technical,medium
+T0154,My account 2638 has been locked,account,high
+T0081,Where is my package for order 8962?,delivery,medium
+T0050,The amount charged for order 9830 is incorrect,billing,high
+T0031,I was charged twice for order 7227,billing,high
+T0060,The amount charged for order 8668 is incorrect,billing,high
+T0282,I cannot upload a document with reference 7865,technical,medium
+T0171,Please update my email address for account 5114,account,low
+T0233,I cannot upload a document with reference 6279,technical,medium
+T0117,My package for order 5092 arrived damaged,delivery,high
+T0200,I forgot my password for account 4652,account,medium
+T0085,Order 9645 was delivered to the wrong address,delivery,high
+T0141,Please update the delivery address for order 2113,delivery,medium
+T0109,My package for order 1887 arrived damaged,delivery,high
+T0089,My package for order 7118 arrived damaged,delivery,high
+T0136,Please update the delivery address for order 8811,delivery,medium
+T0142,My order 7615 has not arrived,delivery,medium
+T0181,I cannot log into my account 7049,account,medium
+T0095,Please update the delivery address for order 4608,delivery,medium
+T0149,My order 5351 has not arrived,delivery,medium
+T0170,Someone accessed my account 9280 without permission,account,high
+T0284,The mobile application freezes on screen 4613,technical,high
+T0214,I cannot log into my account 7311,account,medium
+T0104,My order 8749 has not arrived,delivery,medium
+T0057,My refund for order 3621 has not arrived,billing,medium
+T0076,My package for order 1319 arrived damaged,delivery,high
+T0024,My payment for order 2291 was declined,billing,medium
+T0005,I was charged twice for order 7912,billing,high
+T0291,The mobile application freezes on screen 9751,technical,high
+T0187,I forgot my password for account 2684,account,medium
+T0254,The application crashes when I open page 5082,technical,high
+T0122,My order 3724 has not arrived,delivery,medium
+T0177,Please update my email address for account 8007,account,low
+T0224,Please update my email address for account 6344,account,low
+T0251,The application crashes when I open page 7965,technical,high
+T0248,I cannot upload a document with reference 9099,technical,medium
+T0105,My package for order 4119 arrived damaged,delivery,high
+T0185,Someone accessed my account 1653 without permission,account,high
+T0261,I cannot upload a document with reference 8373,technical,medium
+T0260,I cannot upload a document with reference 3607,technical,medium
+T0049,My refund for order 5040 has not arrived,billing,medium
+T0133,Where is my package for order 9883?,delivery,medium
+T0003,My refund for order 3286 has not arrived,billing,medium
+T0071,The amount charged for order 4258 is incorrect,billing,high
+T0292,The application crashes when I open page 7455,technical,high
+T0153,I cannot log into my account 8508,account,medium
+T0299,I cannot upload a document with reference 6355,technical,medium
+T0253,The mobile application freezes on screen 8611,technical,high
+T0067,My payment for order 1053 was declined,billing,medium
+T0091,My package for order 2982 arrived damaged,delivery,high
+T0055,My payment for order 2489 was declined,billing,medium
+T0264,I cannot upload a document with reference 4919,technical,medium
+T0047,My payment for order 8517 was declined,billing,medium
+T0273,The application crashes when I open page 7797,technical,high
+T0287,I cannot upload a document with reference 1475,technical,medium
+T0008,My refund for order 9279 has not arrived,billing,medium
+T0087,My order 9835 has not arrived,delivery,medium
+T0098,Where is my package for order 1514?,delivery,medium
+T0172,I cannot log into my account 2512,account,medium
+T0157,Someone accessed my account 3170 without permission,account,high
+T0146,My package for order 9565 arrived damaged,delivery,high
+T0119,Please update the delivery address for order 2604,delivery,medium
+T0268,The dashboard is not loading for user 6238,technical,medium
+T0258,I cannot upload a document with reference 9270,technical,medium
+T0116,My order 5563 has not arrived,delivery,medium
+T0072,My refund for order 7126 has not arrived,billing,medium
+T0023,The amount charged for order 3045 is incorrect,billing,high
+T0242,The website shows error code 3414,technical,high
+T0063,I was charged twice for order 9797,billing,high
+T0219,I forgot my password for account 6967,account,medium
+T0083,My order 3103 has not arrived,delivery,medium
+T0069,My refund for order 9317 has not arrived,billing,medium
+T0152,Someone accessed my account 2188 without permission,account,high
+T0236,The mobile application freezes on screen 8752,technical,high
+T0212,Someone accessed my account 6139 without permission,account,high
+T0238,The dashboard is not loading for user 9445,technical,medium
+T0120,Where is my package for order 9856?,delivery,medium
+T0124,My package for order 4502 arrived damaged,delivery,high
+T0199,Someone accessed my account 6000 without permission,account,high
+T0138,My order 1931 has not arrived,delivery,medium
+T0207,I cannot log into my account 2889,account,medium
+T0158,Someone accessed my account 2127 without permission,account,high
+T0070,I was charged twice for order 5889,billing,high
+T0167,Someone accessed my account 5616 without permission,account,high
+T0134,Where is my package for order 6138?,delivery,medium
+T0188,Someone accessed my account 7658 without permission,account,high
+T0046,My refund for order 9179 has not arrived,billing,medium
+T0279,The mobile application freezes on screen 7232,technical,high
+T0040,The amount charged for order 4598 is incorrect,billing,high
+T0182,My account 3426 has been locked,account,high
+T0118,Where is my package for order 8260?,delivery,medium
+T0213,Please update my email address for account 9379,account,low
+T0229,The mobile application freezes on screen 5930,technical,high
+T0163,I cannot log into my account 5905,account,medium
+T0093,Where is my package for order 6539?,delivery,medium
+T0111,My package for order 6559 arrived damaged,delivery,high
+T0028,I was charged twice for order 1750,billing,high
+T0126,My order 7209 has not arrived,delivery,medium
+T0211,My account 8119 has been locked,account,high
+T0108,My package for order 7735 arrived damaged,delivery,high
+T0218,My account 9821 has been locked,account,high
+T0004,I was charged twice for order 9935,billing,high
+T0088,My order 6107 has not arrived,delivery,medium
+T0166,I cannot log into my account 3546,account,medium
+T0298,The dashboard is not loading for user 4467,technical,medium
+T0290,I cannot upload a document with reference 3091,technical,medium
+T0190,I forgot my password for account 3662,account,medium
+T0220,Please update my email address for account 2146,account,low
+T0178,My account 1158 has been locked,account,high
+T0022,I was charged twice for order 8527,billing,high
+T0062,The amount charged for order 1188 is incorrect,billing,high
+T0155,I cannot log into my account 9808,account,medium
+T0053,Please send the invoice for order 4593,billing,low
+T0125,My package for order 1960 arrived damaged,delivery,high
+T0039,My payment for order 5422 was declined,billing,medium
+T0102,My order 9834 has not arrived,delivery,medium
+T0204,Someone accessed my account 6753 without permission,account,high
+T0193,Someone accessed my account 7745 without permission,account,high
+T0272,The website shows error code 4505,technical,high
+T0014,I was charged twice for order 3615,billing,high
+T0056,I was charged twice for order 2796,billing,high
+T0160,Someone accessed my account 3584 without permission,account,high
+T0084,My package for order 3705 arrived damaged,delivery,high
+T0280,I cannot upload a document with reference 1096,technical,medium
+T0086,Please update the delivery address for order 7932,delivery,medium
+T0189,My account 3532 has been locked,account,high
+T0132,Order 4566 was delivered to the wrong address,delivery,high
+T0239,The mobile application freezes on screen 6491,technical,high
+T0112,Where is my package for order 5073?,delivery,medium
+T0059,My payment for order 7252 was declined,billing,medium
+T0243,The application crashes when I open page 1757,technical,high
+T0065,I was charged twice for order 5808,billing,high
+T0123,My package for order 8956 arrived damaged,delivery,high
+T0079,Where is my package for order 4946?,delivery,medium
+T0011,The amount charged for order 7873 is incorrect,billing,high
+T0103,My order 8744 has not arrived,delivery,medium
+T0127,Where is my package for order 7396?,delivery,medium
+T0016,Please send the invoice for order 3547,billing,low
+T0021,The amount charged for order 5333 is incorrect,billing,high
+T0036,I was charged twice for order 3803,billing,high
+T0115,My order 7912 has not arrived,delivery,medium
+T0180,I forgot my password for account 9938,account,medium
+T0027,The amount charged for order 4150 is incorrect,billing,high
+T0277,The website shows error code 7883,technical,high
+T0010,The amount charged for order 4257 is incorrect,billing,high
+T0241,The dashboard is not loading for user 4680,technical,medium
+T0042,My refund for order 1525 has not arrived,billing,medium
+T0130,Please update the delivery address for order 8973,delivery,medium
+T0216,Someone accessed my account 1727 without permission,account,high
+T0143,Where is my package for order 5033?,delivery,medium

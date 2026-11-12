@@ -1,0 +1,25 @@
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+
+# Environment variables
+.env
+.env.*
+
+# Local databases
+*.db
+*.sqlite3
+
+# Model artifacts
+models/*.joblib
+models/*.pkl
+
+# Temporary files
+.pytest_cache/
+.coverage
+
+# Operating system
+.DS_Store
+Thumbs.db
