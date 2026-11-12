@@ -1,0 +1,77 @@
+ticket_id,message,category,priority
+T0296,The website shows error code 1823,technical,high
+T0208,Someone accessed my account 3925 without permission,account,high
+T0025,The amount charged for order 5803 is incorrect,billing,high
+T0256,The website shows error code 8612,technical,high
+T0244,The website shows error code 8784,technical,high
+T0096,Where is my package for order 2163?,delivery,medium
+T0097,Where is my package for order 4750?,delivery,medium
+T0221,Someone accessed my account 6143 without permission,account,high
+T0110,Where is my package for order 1993?,delivery,medium
+T0203,Someone accessed my account 2137 without permission,account,high
+T0169,Someone accessed my account 4335 without permission,account,high
+T0267,The website shows error code 5451,technical,high
+T0162,Someone accessed my account 9666 without permission,account,high
+T0094,Where is my package for order 4770?,delivery,medium
+T0186,Someone accessed my account 4441 without permission,account,high
+T0082,Where is my package for order 9727?,delivery,medium
+T0250,The website shows error code 1090,technical,high
+T0151,Someone accessed my account 8491 without permission,account,high
+T0013,The amount charged for order 5557 is incorrect,billing,high
+T0227,The website shows error code 7888,technical,high
+T0077,Where is my package for order 6947?,delivery,medium
+T0165,Someone accessed my account 2891 without permission,account,high
+T0295,The website shows error code 8564,technical,high
+T0052,The amount charged for order 7543 is incorrect,billing,high
+T0009,The amount charged for order 1434 is incorrect,billing,high
+T0106,Where is my package for order 2588?,delivery,medium
+T0121,Where is my package for order 2528?,delivery,medium
+T0176,Someone accessed my account 3647 without permission,account,high
+T0061,The amount charged for order 5119 is incorrect,billing,high
+T0037,The amount charged for order 5010 is incorrect,billing,high
+T0074,The amount charged for order 1009 is incorrect,billing,high
+T0075,The amount charged for order 6310 is incorrect,billing,high
+T0270,The website shows error code 3471,technical,high
+T0252,The website shows error code 3881,technical,high
+T0237,The website shows error code 2389,technical,high
+T0175,Someone accessed my account 3143 without permission,account,high
+T0026,The amount charged for order 6925 is incorrect,billing,high
+T0135,Where is my package for order 1821?,delivery,medium
+T0271,The website shows error code 7275,technical,high
+T0081,Where is my package for order 8962?,delivery,medium
+T0050,The amount charged for order 9830 is incorrect,billing,high
+T0060,The amount charged for order 8668 is incorrect,billing,high
+T0170,Someone accessed my account 9280 without permission,account,high
+T0185,Someone accessed my account 1653 without permission,account,high
+T0133,Where is my package for order 9883?,delivery,medium
+T0071,The amount charged for order 4258 is incorrect,billing,high
+T0098,Where is my package for order 1514?,delivery,medium
+T0157,Someone accessed my account 3170 without permission,account,high
+T0023,The amount charged for order 3045 is incorrect,billing,high
+T0242,The website shows error code 3414,technical,high
+T0152,Someone accessed my account 2188 without permission,account,high
+T0212,Someone accessed my account 6139 without permission,account,high
+T0120,Where is my package for order 9856?,delivery,medium
+T0199,Someone accessed my account 6000 without permission,account,high
+T0158,Someone accessed my account 2127 without permission,account,high
+T0167,Someone accessed my account 5616 without permission,account,high
+T0134,Where is my package for order 6138?,delivery,medium
+T0188,Someone accessed my account 7658 without permission,account,high
+T0040,The amount charged for order 4598 is incorrect,billing,high
+T0118,Where is my package for order 8260?,delivery,medium
+T0093,Where is my package for order 6539?,delivery,medium
+T0062,The amount charged for order 1188 is incorrect,billing,high
+T0204,Someone accessed my account 6753 without permission,account,high
+T0193,Someone accessed my account 7745 without permission,account,high
+T0272,The website shows error code 4505,technical,high
+T0160,Someone accessed my account 3584 without permission,account,high
+T0112,Where is my package for order 5073?,delivery,medium
+T0079,Where is my package for order 4946?,delivery,medium
+T0011,The amount charged for order 7873 is incorrect,billing,high
+T0127,Where is my package for order 7396?,delivery,medium
+T0021,The amount charged for order 5333 is incorrect,billing,high
+T0027,The amount charged for order 4150 is incorrect,billing,high
+T0277,The website shows error code 7883,technical,high
+T0010,The amount charged for order 4257 is incorrect,billing,high
+T0216,Someone accessed my account 1727 without permission,account,high
+T0143,Where is my package for order 5033?,delivery,medium

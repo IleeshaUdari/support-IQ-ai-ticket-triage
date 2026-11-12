@@ -1,0 +1,55 @@
+{
+  "model_version": "1.0.0",
+  "dataset_type": "synthetic",
+  "split_strategy": "template_family_holdout",
+  "total_samples": 299,
+  "training_samples": 223,
+  "testing_samples": 76,
+  "accuracy": 1.0,
+  "macro_f1": 1.0,
+  "classification_report": {
+    "account": {
+      "precision": 1.0,
+      "recall": 1.0,
+      "f1-score": 1.0,
+      "support": 23.0
+    },
+    "billing": {
+      "precision": 1.0,
+      "recall": 1.0,
+      "f1-score": 1.0,
+      "support": 19.0
+    },
+    "delivery": {
+      "precision": 1.0,
+      "recall": 1.0,
+      "f1-score": 1.0,
+      "support": 20.0
+    },
+    "technical": {
+      "precision": 1.0,
+      "recall": 1.0,
+      "f1-score": 1.0,
+      "support": 14.0
+    },
+    "accuracy": 1.0,
+    "macro avg": {
+      "precision": 1.0,
+      "recall": 1.0,
+      "f1-score": 1.0,
+      "support": 76.0
+    },
+    "weighted avg": {
+      "precision": 1.0,
+      "recall": 1.0,
+      "f1-score": 1.0,
+      "support": 76.0
+    }
+  },
+  "labels": [
+    "account",
+    "billing",
+    "delivery",
+    "technical"
+  ]
+}
