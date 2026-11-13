@@ -1,0 +1,49 @@
+
+name: SupportIQ CI
+
+on:
+  push:
+    branches: [main]
+  pull_request:
+    branches: [main]
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  test:
+    name: Python Tests
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.13"
+          cache: pip
+
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          python -m pip install -r requirements.txt
+          python -m pip check
+
+      - name: Verify native dependencies
+        run: |
+          python -c "import pandas; print('pandas:', pandas.__version__)"
+          python -c "import sklearn; print('scikit-learn:', sklearn.__version__)"
+          python -c "import streamlit; print('Streamlit import OK')"
+
+      - name: Verify model and dataset artifacts
+        run: |
+          test -f models/ticket_classifier.joblib
+          test -f data/processed/clean_tickets.csv
+
+      - name: Run complete test suite
+        run: |
+          python -m pytest tests/ -v
