@@ -1,0 +1,24 @@
+
+# SupportIQ AI - Python Dependencies
+# Python 3.13
+
+# Backend API
+fastapi
+uvicorn[standard]
+pydantic
+
+# Machine Learning
+scikit-learn
+joblib
+numpy
+
+# Data Processing
+pandas
+
+# Dashboard
+streamlit
+requests
+
+# Testing
+pytest
+httpx
