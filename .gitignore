@@ -1,25 +1,30 @@
 
 # Python
+.venv/
+venv/
 __pycache__/
 *.py[cod]
-.venv/
+.pytest_cache/
 
-# Environment variables
+# Environment and secrets
 .env
 .env.*
+!.env.example
+.streamlit/secrets.toml
 
-# Local databases
-*.db
+# Local database
+data/*.db
+data/*.db-*
+*.sqlite
 *.sqlite3
 
-# Model artifacts
-models/*.joblib
-models/*.pkl
+# Local logs
+*.log
 
-# Temporary files
-.pytest_cache/
-.coverage
+# IDE
+.vscode/
+.idea/
 
-# Operating system
+# OS
 .DS_Store
 Thumbs.db
